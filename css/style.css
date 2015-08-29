@@ -230,5 +230,19 @@ ul {
     border-bottom: 1px solid grey
 }
 
+.error {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.error a {
+    border-bottom: 2px solid #87CDCB;
+}
+
+.error a:hover {
+    border-bottom: 2px solid grey
+}
+
+
 
 
