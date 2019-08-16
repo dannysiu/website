@@ -1,3 +1,3 @@
-# dannysiu.github.io
+# dannysiu.website
 
 Repository for [dannysiu.me](http://dannysiu.me)
