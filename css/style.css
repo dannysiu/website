@@ -187,12 +187,10 @@ ul {
 .experience {
     margin-left: 150px;
     margin-right: 150px;
-
 }
 
 .experience img {
     float: right;
-
 }
 
 .experience p {
@@ -201,6 +199,15 @@ ul {
 
 .ut_austin, .uc_berkeley {
     margin-bottom: 9%;
+}
+
+.contact {
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.contact p {
+    width: 650px;
 }
 
 .footer {
