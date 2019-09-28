@@ -202,6 +202,27 @@ ul {
     margin-bottom: 9%;
 }
 
+.skills {
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 150px;
+}
+
+
+.skills img {
+    float: right;
+}
+
+.talents {
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 150px;
+}
+
+.talents img {
+    float: right;
+}
+
 .contact {
     margin-left: 150px;
     margin-right: 150px;
