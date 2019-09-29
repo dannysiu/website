@@ -463,8 +463,8 @@ ul {
 }
 
 #fb1, #link1, #mail1, #git1, #fb2, #link2, #mail2,  #git2 {
-	width: 26px;
-	height: 26px;
+	width: 52px;
+	height: 52px;
 	margin-right: 20px;
 	transition-duration: 0.4s;
 }
